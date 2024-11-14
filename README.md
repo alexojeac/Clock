@@ -11,7 +11,7 @@ Reloj digital implementado en Java, diseñado como un bean que puedes integrar f
 
 1. Clona el repositorio en tu máquina local.
     ```bash
-    git clone https://github.com/alexojeac/Clock
+    git clone https://github.com/alexojeac/Clock.git
     ```
 2. Importa el proyecto en tu IDE favorito.
 
