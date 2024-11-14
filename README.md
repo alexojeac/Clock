@@ -21,7 +21,7 @@ Para utilizar el bean del reloj digital en tu aplicación Java Swing:
 ## Licencia
 MIT License
 
-Copyright (c) [Año] [Tu Nombre o Nombre de la Organización]
+Copyright (c) 2024 Alejandro D. Ojea Corregidor
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
